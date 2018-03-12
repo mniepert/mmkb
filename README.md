@@ -14,6 +14,8 @@ The second data set consists of a set of images associated with each of the enti
 
 https://arxiv.org/abs/1709.02314
 
+[Donwload the image URLs for FB15k entities.](https://www.dropbox.com/s/thct96phmypkaon/image-graph_urls.tar.gz)
+NB: The Freebase ID is written m.xyz instead of /m/xyz
 
 Feel free to use the data sets but please cite the respective paper(s). 
 
