@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/nle-ml/mmkb/blob/master/media/KB.png)
 
-We provide several data sets for knowledge bases. 
+We provide the following multi-modal knowledge graphs. 
 
 ### Numerical Data for FB15k, YAGO15k, and DBpedia15k
 
