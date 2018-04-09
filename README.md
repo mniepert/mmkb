@@ -28,7 +28,7 @@ If you want to try out the crawler we used to retrieve the image URLs/data, you 
 
 ### sameAs Links between FB15k, YAGO15k, and DBpedia15k
 
-...
+We have sameAs links between [FB15k and DBpedia15k](https://github.com/nle-ml/mmkb/blob/master/DB15K/DB15K_SameAsLink.txt) as well as between [FB15k and YAGO15k](https://github.com/nle-ml/mmkb/blob/master/YAGO15K/YAGO15K_SameAsLink.txt).
 
 
 Feel free to use the data sets but please cite the respective paper(s). 
