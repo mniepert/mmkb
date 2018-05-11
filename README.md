@@ -6,6 +6,23 @@ We provide the following multi-modal knowledge graphs.
 
 [![DOI](https://zenodo.org/badge/122334067.svg)](https://zenodo.org/badge/latestdoi/122334067)
 
+### Citing MMKG
+
+If you find MMKG useful in your research, please consider citing:
+
+@misc{ye_liu_2018_1244118,
+  author       = {Ye Liu and
+                  Hui Li and
+                  Alberto Garcia-Duran and
+                  Mathias Niepert and
+                  Daniel Onoro-Rubio and
+                  David Rosenblum},
+  title        = {nle-ml/mmkb: MMKG: Multi-Modal Knowledge Graphs},
+  month        = may,
+  year         = 2018,
+  doi          = {10.5281/zenodo.1244118},
+  url          = {https://doi.org/10.5281/zenodo.1244118}
+}
 
 ### Numerical Data for FB15k, YAGO15k, and DBpedia15k
 
