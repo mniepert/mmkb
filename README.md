@@ -4,6 +4,9 @@
 
 We provide the following multi-modal knowledge graphs. 
 
+[![DOI](https://zenodo.org/badge/122334067.svg)](https://zenodo.org/badge/latestdoi/122334067)
+
+
 ### Numerical Data for FB15k, YAGO15k, and DBpedia15k
 
 Numerical data for the entities in the FB15k, DBpedia15k, and Yago15k knowledge graphs. FB15k is a commonly used knowledge graph in the KB completion literature. Both FB15k and FB15k-237 can be used with the numerical data. The data set and one method for integrating numerical data into a joint machine learning model are described in the following paper.
