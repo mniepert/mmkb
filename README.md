@@ -13,18 +13,18 @@ MMKG is released under the BSD-3-Clause License (refer to the LICENSE file for d
 If you find MMKG useful in your research, please consider citing:
 
 ```
-@misc{ye_liu_2018_1244118,
-    author       = {Ye Liu and
-                    Hui Li and
-                    Alberto Garcia-Duran and
-                    Mathias Niepert and
-                    Daniel Onoro-Rubio and
-                    David Rosenblum},
-    title        = {MMKG: Multi-Modal Knowledge Graphs},
-    month        = may,
-    year         = 2018,
-    doi          = {10.5281/zenodo.1244118},
-    url          = {https://doi.org/10.5281/zenodo.1244118}
+@misc{ye_liu_2018_1245698,
+  author       = {Ye Liu and
+                  Hui Li and
+                  Alberto Garcia-Duran and
+                  Mathias Niepert and
+                  Daniel Onoro-Rubio and
+                  David Rosenblum},
+  title        = {MMKG: Multi-Modal Knowledge Graphs},
+  month        = may,
+  year         = 2018,
+  doi          = {10.5281/zenodo.1245698},
+  url          = {https://doi.org/10.5281/zenodo.1245698}
 }
 ```
 
