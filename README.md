@@ -48,7 +48,7 @@ NB: The Freebase ID is written m.xyz instead of /m/xyz
 
 If you want to try out the crawler we used to retrieve the image URLs/data, you can download it [here](https://github.com/robegs/imageDownloader).
 
-If you want to obtain the embeddings obtained from a trained VGG16 that are stored in hdf5 format, you can download them [here](). For example, the embedding for the DB15k entity <http://dbpedia.org/resource/Bright_Star_(film)>, indexed by the identifier DBIMG00039, can accessed: 
+If you want to obtain the embeddings obtained from a trained VGG16, you can download them [here](). For example, the embedding for the DB15k entity <http://dbpedia.org/resource/Bright_Star_(film)>, indexed by the identifier DBIMG00039, can be accessed: 
 
 ```python
 import h5py
