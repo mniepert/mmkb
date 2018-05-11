@@ -6,6 +6,9 @@ We provide the following multi-modal knowledge graphs.
 
 [![DOI](https://zenodo.org/badge/122334067.svg)](https://zenodo.org/badge/latestdoi/122334067)
 
+### License
+MMKG is released under the BSD-3-Clause License (refer to the LICENSE file for details).
+
 ### Citing MMKG
 
 If you find MMKG useful in your research, please consider citing:
