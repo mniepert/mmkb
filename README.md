@@ -19,7 +19,7 @@ If you find MMKG useful in your research, please consider citing:
                     Mathias Niepert and
                     Daniel Onoro-Rubio and
                     David Rosenblum},
-    title        = {nle-ml/mmkb: MMKG: Multi-Modal Knowledge Graphs},
+    title        = {MMKG: Multi-Modal Knowledge Graphs},
     month        = may,
     year         = 2018,
     doi          = {10.5281/zenodo.1244118},
