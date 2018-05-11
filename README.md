@@ -48,6 +48,13 @@ NB: The Freebase ID is written m.xyz instead of /m/xyz
 
 If you want to try out the crawler we used to retrieve the image URLs/data, you can download it [here](https://github.com/robegs/imageDownloader).
 
+```python
+import h5py
+import numpy as np
+filename = 'DB15K_ImageData.h5'
+f = h5py.File(filename, 'r')
+vgg_feats = f["DBIMG00039"] 
+```
 
 ### sameAs Links between FB15k, YAGO15k, and DBpedia15k
 
