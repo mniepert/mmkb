@@ -2,8 +2,6 @@
 
 ![alt text](https://github.com/nle-ml/mmkb/blob/master/media/KB.png)
 
-We provide the following multi-modal knowledge graphs. 
-
 [![DOI](https://zenodo.org/badge/122334067.svg)](https://zenodo.org/badge/latestdoi/122334067)
 
 ### License
