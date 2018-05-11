@@ -2,7 +2,8 @@
 
 ![alt text](https://github.com/nle-ml/mmkb/blob/master/media/KB.png)
 
-[![DOI](https://zenodo.org/badge/122334067.svg)](https://zenodo.org/badge/latestdoi/122334067)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1245698.svg)](https://doi.org/10.5281/zenodo.1245698)
+
 
 ### License
 MMKG is released under the BSD-3-Clause License (refer to the LICENSE file for details).
