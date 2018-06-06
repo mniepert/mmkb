@@ -6,11 +6,11 @@
 
 
 ### License
-MMKG is released under the BSD-3-Clause License (refer to the LICENSE file for 
+MMKG is released under the BSD-3-Clause License (please read the LICENSE file for more details).
 
 ### Numerical Data for FB15k, YAGO15k, and DBpedia15k
 
-Numerical data for the entities in the FB15k, DBpedia15k, and Yago15k knowledge graphs. FB15k is a commonly used knowledge graph in the KB completion literature. Both FB15k and FB15k-237 can be used with the numerical data. The data set and one method for integrating numerical data into a joint machine learning model are described in the following paper.
+Numerical data for the entities in the FB15k, DBpedia15k, and Yago15k knowledge graphs. FB15k is a commonly used knowledge graph in the KB completion literature. Both FB15k and FB15k-237 can be used with the numerical data. The data set and one method for integrating numerical data into a joint machine learning model are described in the following paper (to be presented at UAI 2018).
 
 https://arxiv.org/abs/1709.04676
 
@@ -44,4 +44,6 @@ vgg_feats = f["DBIMG00039"]
 We have sameAs links between [FB15k and DBpedia15k](https://github.com/nle-ml/mmkb/blob/master/DB15K/DB15K_SameAsLink.txt) as well as between [FB15k and YAGO15k](https://github.com/nle-ml/mmkb/blob/master/YAGO15K/YAGO15K_SameAsLink.txt).
 
 
+### Citing MMKB
 
+If you use MMKB in your work, please cite one of the above papers. Thanks!
