@@ -39,6 +39,15 @@ f = h5py.File(filename, 'r')
 vgg_feats = f["DBIMG00039"] 
 ```
 
+### Temporal Information for Yago15k, Wikidata, ICEWS14 and ICEWS05-15
+
+Facts in Yago15k, Wikidata, ICEWS14 and ICEWS05-15 are enriched with temporal information. The data sets and a methodology for performing link prediction in temporal KGs with standard scoring functions are described in the following paper (to be presented at EMNLP 2018).
+
+Learning Sequence Encoders for Temporal Knowledge Graph Completion.
+
+https://arxiv.org/abs/1809.03202
+
+
 ### sameAs Links between FB15k, YAGO15k, and DBpedia15k
 
 We have sameAs links between [FB15k and DBpedia15k](https://github.com/nle-ml/mmkb/blob/master/DB15K/DB15K_SameAsLink.txt) as well as between [FB15k and YAGO15k](https://github.com/nle-ml/mmkb/blob/master/YAGO15K/YAGO15K_SameAsLink.txt).
