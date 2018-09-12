@@ -14,7 +14,7 @@ Numerical data for the entities in the FB15k, DBpedia15k, and Yago15k knowledge 
 
 https://arxiv.org/abs/1709.04676
 
-[Download the numerical data for FB15k entities.](FB15K/numTriples_FB15k.txt)
+[Download the numerical data for FB15k entities.](FB15K/FB15K_NumericalTriples.txt)
 
 We have created the Yago and DBpedia equivalents of FB15k and extracted numerical data for these data sets. You can find those files in the folders DB15K and YAGO15K.
 
