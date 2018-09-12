@@ -47,6 +47,8 @@ Learning Sequence Encoders for Temporal Knowledge Graph Completion.
 
 https://arxiv.org/abs/1809.03202
 
+[Download the knowledge graphs with time information.](TemporalKGs/)
+
 
 ### sameAs Links between FB15k, YAGO15k, and DBpedia15k
 
