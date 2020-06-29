@@ -54,6 +54,8 @@ https://arxiv.org/abs/1809.03202
 
 We have sameAs links between [FB15k and DBpedia15k](https://github.com/nle-ml/mmkb/blob/master/DB15K/DB15K_SameAsLink.txt) as well as between [FB15k and YAGO15k](https://github.com/nle-ml/mmkb/blob/master/YAGO15K/YAGO15K_SameAsLink.txt).
 
+MMKG: Multi-Modal Knowledge Graphs
+https://arxiv.org/abs/1903.05485
 
 ### Citing MMKB
 
