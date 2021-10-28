@@ -14,6 +14,20 @@ Numerical data for the entities in the FB15k, DBpedia15k, and Yago15k knowledge 
 
 https://arxiv.org/abs/1709.04676
 
+```bibtex
+@inproceedings{Garcia-DuranN18,
+  author    = {Alberto Garc{\'{\i}}a{-}Dur{\'{a}}n and
+               Mathias Niepert},
+  title     = {KBlrn: End-to-End Learning of Knowledge Base Representations with
+               Latent, Relational, and Numerical Features},
+  booktitle = {Proceedings of the Thirty-Fourth Conference on Uncertainty in Artificial
+               Intelligence, {UAI}},
+  pages     = {372--381},
+  publisher = {{AUAI} Press},
+  year      = {2018}
+}
+```
+
 [Download the numerical data for FB15k entities.](FB15K/FB15K_NumericalTriples.txt)
 
 We have created the Yago and DBpedia equivalents of FB15k and extracted numerical data for these data sets. You can find those files in the folders DB15K and YAGO15K.
@@ -23,6 +37,16 @@ We have created the Yago and DBpedia equivalents of FB15k and extracted numerica
 The second data set consists of a set of images associated with each of the entities in the FB15k, DBpedia15k, and Yago15k knowledge graphs. For now, we provide a list of URLs that can be downloaded with a [script](download-images.py) which also scales the images (thanks to https://github.com/jrieke). We also provide the links of the Freebase IDs to their image URLs.  The paper describing the data set, possible visual queries, and a method for answering these queries are introduced in the following paper.
 
 https://arxiv.org/abs/1709.02314
+
+```bibtex
+@inproceedings{OoroRubio2019AnsweringVQ,
+  title={Answering Visual-Relational Queries in Web-Extracted Knowledge Graphs},
+  author={Daniel O{\~n}oro-Rubio and Mathias Niepert and Alberto Garc{\'i}a-Dur{\'a}n
+  and Roberto Gonzalez-Sanchez and Roberto Javier L{\'o}pez-Sastre},
+  booktitle={AKBC},
+  year={2019}
+}
+```
 
 [Download the image URLs for FB15k entities.](https://www.dropbox.com/s/thct96phmypkaon/image-graph_urls.tar.gz)
 NB: The Freebase ID is written m.xyz instead of /m/xyz
@@ -47,6 +71,15 @@ Learning Sequence Encoders for Temporal Knowledge Graph Completion.
 
 https://arxiv.org/abs/1809.03202
 
+```bibtex
+@inproceedings{GarcaDurn2018LearningSE,
+  title={Learning Sequence Encoders for Temporal Knowledge Graph Completion},
+  author={Alberto Garc{\'i}a-Dur{\'a}n and Sebastijan Dumancic and Mathias Niepert},
+  booktitle={EMNLP},
+  year={2018}
+}
+```
+
 [Download the knowledge graphs with time information.](TemporalKGs/)
 
 
@@ -56,6 +89,18 @@ We have sameAs links between [FB15k and DBpedia15k](https://github.com/nle-ml/mm
 
 MMKG: Multi-Modal Knowledge Graphs
 https://arxiv.org/abs/1903.05485
+
+```bibtex
+@inproceedings{liu2019mmkg,
+  title={MMKG: multi-modal knowledge graphs},
+  author={Liu, Ye and Li, Hui and Garcia-Duran, Alberto and Niepert, 
+  Mathias and Onoro-Rubio, Daniel and Rosenblum, David S},
+  booktitle={European Semantic Web Conference},
+  pages={459--474},
+  year={2019},
+  organization={Springer}
+}
+```
 
 ### Citing MMKB
 
